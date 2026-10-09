@@ -6,7 +6,7 @@ non-local targets. One static binary, built for SSH sessions and bastion hosts.
 
 - [Repository](https://github.com/redis-pane/redis-pane)
 - [Documentation](https://redis-pane.github.io/redis-pane/)
-- [Latest release](https://github.com/redis-pane/redis-pane/releases/latest)
+- [Releases](https://github.com/redis-pane/redis-pane/releases)
 - [Discussions](https://github.com/redis-pane/redis-pane/discussions)
 
 ![redis-pane demo](https://raw.githubusercontent.com/redis-pane/redis-pane/main/demo.gif)
